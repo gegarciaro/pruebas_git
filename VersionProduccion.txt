@@ -4,3 +4,5 @@ Esto es producción:
 
 pero con los compilados de QA, cambio 1
 hago cambios directo en pruebas
+
+Pero esta es mi rama de desarrollo que quiero subir a QA y posteriormente a PROD 
