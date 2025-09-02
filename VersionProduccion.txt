@@ -6,3 +6,5 @@ pero con los compilados de QA, cambio 1
 hago cambios directo en pruebas
 
 Pero esta es mi rama de desarrollo que quiero subir a QA y posteriormente a PROD 
+
+ahorita con esto puedo estar de dev, aun no se va a pruebas el 01/09/2025
